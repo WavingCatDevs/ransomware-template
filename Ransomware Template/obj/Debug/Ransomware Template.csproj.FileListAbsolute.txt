@@ -1,0 +1,10 @@
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\bin\Debug\Ransomeware Template.exe.config
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\bin\Debug\Ransomeware Template.exe
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\bin\Debug\Ransomeware Template.pdb
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\obj\Debug\Ransomware Template.csproj.AssemblyReference.cache
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\obj\Debug\Ransomeware_Template.FileDescription.resources
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\obj\Debug\Ransomeware_Template.Properties.Resources.resources
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\obj\Debug\Ransomware Template.csproj.GenerateResource.cache
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\obj\Debug\Ransomware Template.csproj.CoreCompileInputs.cache
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\obj\Debug\Ransomeware Template.exe
+C:\Users\Preston\source\repos\Ransomeware Template\Ransomware Template\obj\Debug\Ransomeware Template.pdb

@@ -8,7 +8,6 @@
 <br>
 **Disclamer: This is the only the frontend so there is no virus in it, only the UI**
 
-<br>
 
 
 
@@ -17,7 +16,6 @@
 Visual Studio
 Some c# knowledge
 
-<br>
 
 
 

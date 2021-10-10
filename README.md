@@ -1,5 +1,4 @@
 # Simple Ransomware 
-<br>
 
 
 ## Disclamers

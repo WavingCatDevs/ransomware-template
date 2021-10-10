@@ -12,8 +12,7 @@
 
 ## Requirements
 
-Visual Studio
-Some c# knowledge
+Visual Studio and some c# knowledge
 
 
 

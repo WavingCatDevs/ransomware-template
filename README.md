@@ -19,7 +19,7 @@ Some c# knowledge
 
 <br>
 
-**Disclamer: this would only be for personal use, if you get in trouble for using it dangerously, I warned you :) 
+**Disclamer: this would only be for personal use, if you get in trouble for using it dangerously, I warned you :)**
 
 <br>
 

@@ -2,9 +2,6 @@
 
 <br>
 
-### Simple windows form template
-
-<br>
 
 
 ## Disclamers
